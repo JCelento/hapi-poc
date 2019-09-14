@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "chalk": "2.4.2",
+    "hapi": "16.5.2",
+    "hapi-swagger": "7.0.0",
+    "inert": "4.0.0",
+    "vision": "4.0.0"
+  }
+}
