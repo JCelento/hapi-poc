@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "node server.js"
+    "start": "node lib/framework_drivers/webserver/server.js"
   },
   "dependencies": {
     "chalk": "2.4.2",
