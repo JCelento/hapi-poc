@@ -88,4 +88,4 @@ typings/
 .dynamodb/
 
 # Webstorm configuration files
-./.idea
+idea/
